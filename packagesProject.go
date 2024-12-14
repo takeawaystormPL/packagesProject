@@ -1,5 +1,5 @@
 package packagesproject
 
-func something(s string) string {
+func Something(s string) string {
    return s;
 }
